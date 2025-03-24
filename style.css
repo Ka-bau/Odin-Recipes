@@ -1,0 +1,22 @@
+h1
+    {
+        color: red;
+        font-weight: bold;
+        font-family: "Palatino Linotype",sans-serif;
+        font-size: 68px;
+        text-align: center;
+    }
+
+button
+    {
+        color: white;
+        font-weight: bold;
+        font-style: italic;
+        background-color: lightsalmon;
+        font-size: 40px;
+    }
+img
+    {
+        width:auto;
+        height:auto;
+    }
