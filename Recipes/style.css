@@ -50,6 +50,7 @@ button
         font-style: italic;
         text-align: center;
         font-weight: bold;
+        margin: 10px 250px;
     }
 p3
     {
@@ -68,4 +69,14 @@ p4
         font-size: 30px;
         font-style: normal;
         text-align: center;
+    }
+body
+    {
+        max-width:fit-content;
+        background-color: beige;
+    }
+img
+    {
+        width: 1240px;
+        height: auto;
     }

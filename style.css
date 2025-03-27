@@ -14,9 +14,25 @@ button
         font-style: italic;
         background-color: lightsalmon;
         font-size: 40px;
+        margin-left: 70px;
     }
 img
     {
-        width:auto;
-        height:auto;
+        width: 1240px;
+        height: 700px;
+        padding: 8px 0px;
+        align-items: center;
+        margin: 0px;
+        padding-right: 8px;
+    }
+body
+    {
+        max-width: fit-content;
+        border: auto;
+        background-color: blanchedalmond;
+        padding: 32px 8px;
+    }
+span
+    {
+        padding: 220px;
     }
